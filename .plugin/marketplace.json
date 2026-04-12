@@ -1,0 +1,19 @@
+{
+  "name": "superbased-tools",
+  "owner": {
+    "name": "Gaja AI",
+    "email": "contact@marmut.app"
+  },
+  "metadata": {
+    "description": "Screenshot capture, AI vision, OCR, screen recording, visual regression testing, token compression, voice dictation, and proactive screen monitoring",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "superbased",
+      "description": "Give Copilot eyes on your screen — capture, record, OCR, AI vision, visual QA, voice dictation, token compression, and proactive monitoring via 28 MCP tools",
+      "version": "2.0.0",
+      "source": "./"
+    }
+  ]
+}
