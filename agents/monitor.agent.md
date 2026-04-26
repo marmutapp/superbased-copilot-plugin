@@ -1,6 +1,7 @@
 ---
 name: monitor
 description: Proactive screen monitoring agent that watches for errors, failures, and anomalies during deploys, tests, and long-running processes
+model: sonnet
 tools:
   - superbased_capture_image
   - superbased_recording

@@ -1,6 +1,7 @@
 ---
 name: visual-qa
 description: Visual QA agent for regression testing with SuperBased
+model: sonnet
 tools:
   - superbased_capture_image
   - superbased_recording
